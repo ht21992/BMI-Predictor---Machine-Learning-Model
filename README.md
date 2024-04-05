@@ -1,4 +1,6 @@
-BMI Prediction ModelThis is a simple BMI (Body Mass Index) machine learning model that predicts body status based on gender, height, and weight inputs.
+## BMI-Predictor---Machine-Learning-Model
+
+This is a simple BMI (Body Mass Index) machine learning model that predicts body status based on gender, height, and weight inputs.
 
 
 The predicted body status categories are:
